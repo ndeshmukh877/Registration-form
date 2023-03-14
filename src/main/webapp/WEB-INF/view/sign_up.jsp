@@ -12,6 +12,7 @@ table  {
 	border-collapse: collapse;
 	padding: 5px;
 	margin-top: 20px;
+	
 }
 td{
 padding: 4px;
